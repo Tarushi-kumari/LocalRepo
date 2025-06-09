@@ -1,2 +1,2 @@
-# this is me tarushi struggling
-with github
+# this is me tarushi struggling with gitHub
+                            
