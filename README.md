@@ -1,1 +1,2 @@
-# this is me tarushi struddlinb with github
+# this is me tarushi struggling
+with github
